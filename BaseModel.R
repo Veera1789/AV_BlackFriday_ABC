@@ -1,7 +1,7 @@
 # Base Model for Black Friday Competition... 
 # Competition URL : https://datahack.analyticsvidhya.com/contest/black-friday/
 
-# Reading traindata
+# Reading traindata from local repository 
 traindata<-read.csv("C:\\Users\\user\\Dropbox\\temp\\Hackathons\\AV\\BlackFriday_ABC\\data\\train.csv",header=TRUE)
 summary(traindata)
 str(traindata)
