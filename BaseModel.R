@@ -1,4 +1,4 @@
-# Base Model for Black Friday Competition
+# Base Model for Black Friday Competition... 
 # Competition URL : https://datahack.analyticsvidhya.com/contest/black-friday/
 
 # Reading traindata
